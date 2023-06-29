@@ -37,3 +37,45 @@ meal → Kind of meal opted for
 country → Country code
 
 market_segment → Which segment the customer belongs to 
+
+Distribution_channel → How the customer accessed the stay corporate booking/Direct/TA.TO
+
+is_repeated_guest → Guest coming for the first time or not
+
+previous_cancellation → Was there a cancellation before
+
+previous_bookings → Count of previous bookings
+
+reserved_room_type → Type of room reserved
+
+assigned_room_type → Type of room assigned
+
+booking_changes → Count of changes made to the booking
+
+deposit_type → Deposit type
+
+agent → Booked through agent
+
+days_in_waiting_list → Number of days in waiting list
+
+customer_type → Type of customer
+
+required_car_parking → If car parking is required
+
+total_of_special_req → Number of additional special requirements
+
+reservation_status → Reservation of status
+
+reservation_status_date → Date of the specific status
+
+# EDA majorly consists four steps. These are the following:
+
+# 1. Analyze the data
+
+# 2. Modeling the data
+
+# 3. Infer the data
+
+# 4. Interperate the data
+
+# Based on these four steps we take upcoming decisions for our business.
